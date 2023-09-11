@@ -4,11 +4,11 @@ This is the Postgraduate students management software project for managing postg
 
 ## Installation
 
-**Fork the project to your GitHub account**
+- Fork the project to your GitHub account
 
-**Clone the repo to your local machine**
+- Clone the repo to your local machine
 
-**Create a python virtual environment**
+- Create a python virtual environment
 
 On Windows:
 ```sh
@@ -19,7 +19,7 @@ On Linux/macOS:
 $ python3 -m venv env
 ```
 
-**Activate the virtual environment**
+- Activate the virtual environment
 
 On Windows:
 ```sh
@@ -29,24 +29,25 @@ On Linux/macOS:
 ```sh
 $ source env/bin/activate
 ```
-**Install project packages**
+
+- Install project packages
 
 On Windows & Linux/macOS:
 ```sh
 $ pip install -r requirements.txt
 ```
-- You're all set! 🕺🏽
 
+- You're all set! 🕺🏽
 
 ## Project setup
 
-**Within the root folder, create a .env**
+- Within the root folder, create a .env
 
-**Update the .env file with the details in .env.example**
+- Update the .env file with the details in .env.example
 
-**Substitute the SECRET_KEY value with one you generated**
+- Substitute the SECRET_KEY value with one you generated
 
-**Migrate the database**
+- Migrate the database
 
 On Windows:
 ```sh
@@ -63,7 +64,7 @@ $ python3 manage.py makemigrations
 $ python3 manage.py migrate
 ```
 
-**You can now start making amazing contributions! 👍🏾**
+- You can now start making amazing contributions! 👍🏾
 
 
 > Please note that if you meet any bug during the setup, feel free to reach out so that all the bugs can be _crushed_. 😁
