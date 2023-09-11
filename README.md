@@ -23,7 +23,7 @@ $ python3 -m venv env
 
 On Windows:
 ```sh
-$ env\Script\activate
+$ env\Scripts\activate
 ```
 On Linux/macOS:
 ```sh
