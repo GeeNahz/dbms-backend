@@ -37,7 +37,6 @@ $ pip install -r requirements.txt
 ```
 - You're all set! 🕺🏽
 
----
 
 ## Project setup
 
@@ -66,6 +65,5 @@ $ python3 manage.py migrate
 
 **You can now start making amazing contributions! 👍🏾**
 
----
 
 > Please note that if you meet any bug during the setup, feel free to reach out so that all the bugs can be _crushed_. 😁
