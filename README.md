@@ -41,9 +41,9 @@ $ pip install -r requirements.txt
 
 ## Project setup
 
-- Within the root folder, create a .env
+- Within the root directory, create a .env file
 
-- Update the .env file with the details in .env.example
+- Update the .env file with contents from .env.example
 
 - Substitute the SECRET_KEY value with one you generated
 
