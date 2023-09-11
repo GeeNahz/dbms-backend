@@ -1,7 +1,5 @@
 # DBMS Project
 
----
-
 This is the Postgraduate students management software project for managing postgraduate students' academic records and research projects.
 
 ## Installation
@@ -43,10 +41,13 @@ $ pip install -r requirements.txt
 
 ## Project setup
 
-- Within the root folder, create a .env
-- Update the .env file with the details in .env.example
-- Substitute the SECRET_KEY value with one you generated
-- Migrate the database
+**Within the root folder, create a .env**
+
+**Update the .env file with the details in .env.example**
+
+**Substitute the SECRET_KEY value with one you generated**
+
+**Migrate the database**
 
 On Windows:
 ```sh
